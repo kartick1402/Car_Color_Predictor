@@ -4,14 +4,15 @@ This is a model for the Car_Color_Predictor.
 
 ## To simply run this model:
 1. Clone this repository
-2. Go to [Roboflow](https://roboflow.com/) and create a account.
-3. Once account is created, Click on the Drop Down arrow on the profile photo on the top right corner of page.
-4. Select API Keys.
-5. Copy your private API Key.
-6. Open the tryimg.py file to test the model on images and Open the tryvideo.py file to test on a video as a Real Time.
-7. Paste your copied API KEY at the desired place in the code.
-8. Run the file.
-9. View Results
+2. Install all the neccessary modules mentioned in requirements.txt file
+3. Go to [Roboflow](https://roboflow.com/) and create a account.
+4. Once account is created, Click on the Drop Down arrow on the profile photo on the top right corner of page.
+5. Select API Keys.
+6. Copy your private API Key.
+7. Open the tryimg.py file to test the model on images and Open the tryvideo.py file to test on a video as a Real Time.
+8. Paste your copied API KEY at the desired place in the code.
+9. Run the file.
+10. View Results
 
 # LINK FOR THE SAMPLE VIDEO ON WHICH TESTING CAN BE DONE
 
