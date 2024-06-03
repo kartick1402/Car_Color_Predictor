@@ -10,9 +10,10 @@ This is a model for the Car_Color_Predictor.
 5. Select API Keys.
 6. Copy your private API Key.
 7. Open the tryimg.py file to test the model on images and Open the tryvideo.py file to test on a video as a Real Time.
-8. Paste your copied API KEY at the desired place in the code.
-9. Run the file.
-10. View Results
+8. You can also open the FINAL_GUI.py file to work with GUI directly.
+9. Paste your copied API KEY at the desired place in the code.
+10. Run the file.
+11. View Results
 
 # LINK FOR THE SAMPLE VIDEO ON WHICH TESTING CAN BE DONE
 
