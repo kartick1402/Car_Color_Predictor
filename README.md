@@ -13,6 +13,10 @@ This is a model for the Car_Color_Predictor.
 8. Run the file.
 9. View Results
 
+# LINK FOR THE SAMPLE VIDEO ON WHICH TESTING CAN BE DONE
+
+## [LINK](https://drive.google.com/drive/folders/1HSfy0FhyEKOxd7pKBW9ly_lOyzxMbl_8?usp=sharing)
+
 # Below is the link for the Video for Car Color Predictor Model Execution
 
 Overview the video to understand how to run the files and work with the model perfectly
