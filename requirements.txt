@@ -1,0 +1,5 @@
+roboflow
+numpy
+supervision==0.16.0
+opencv-python
+ultralytics
